@@ -18,7 +18,7 @@ function App() {
       <h1>
         <span>emojipedia</span>
       </h1>
-
+      <h5>Dev by Hareeshkr</h5>
       <dl className="dictionary">
         {emojies.map(createEmoji)}
       </dl>
