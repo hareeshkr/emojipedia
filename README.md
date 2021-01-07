@@ -1,0 +1,1 @@
+Its a simple web page created with react showing different emojies with its name.
